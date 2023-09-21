@@ -1,3 +1,3 @@
 import funcs
 
-func_summ()
+funcs.func_summ()
